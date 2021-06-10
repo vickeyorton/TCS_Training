@@ -1,0 +1,116 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "name": "Nacho Cheese Crumbed Chicken Tenders",
+      "pic": "/nacho.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 70
+    },
+    {
+      "id": 2,
+      "name": "Grilled Tequila Lime Chicken Nachos",
+      "pic": "/grilled-tequila-chicken-nachos.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Real Tacos",
+      "pic": "/real-tacos.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Baja-Style Mini Fish Tacos",
+      "pic": "/baja-style-mini-fish-tacos.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Crunchy Chicken Twisties drumsticks",
+      "pic": "/1980-crunchy-chicken-twisties-drumsticks.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 6,
+      "name": "Japanese chicken curry",
+      "pic": "/japanese-chicken-curry.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 7,
+      "name": "The Best Burger",
+      "pic": "/burger.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 8,
+      "name": "Moroccan Lamb Burgers",
+      "pic": "/moroccan-lamb-burgers.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 9,
+      "name": "Portuguese Chicken Burger",
+      "pic": "portuguese-chicken-burger.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 10,
+      "name": "Noodle salad",
+      "pic": "noodle-salad.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 11,
+      "name": "Rainbow Pizza",
+      "pic": "rainbow-pizza.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 12,
+      "name": "BBQ chicken wings",
+      "pic": "bbq-chicken-wings.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 13,
+      "name": "Pan-Fried Chinese Beef Dumplings",
+      "pic": "pan-fried-chinese-beef-dumplings.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 14,
+      "name": "Fried rice",
+      "pic": "fried-rice.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 15,
+      "name": "Pad Sieu",
+      "pic": "pad-sieu.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    },
+    {
+      "id": 16,
+      "name": "Vietnamese Prawn Rice Noodle Salad",
+      "pic": "vietnamese-prawn-rice-noodle-salad.jpg",
+      "description": "Fried rice is one of those dishes you can whip up after a busy day when you don’t know what else to make. Everyone loves it. It is eaten throughout Asia, and this is our play on it, bringing in the much-loved kimchi flavours. It’s a great way to use up leftover cooked rice, and feel free to add any extra vegetables you may have in your fridge.",
+      "price": 100
+    }
+  ]
+}

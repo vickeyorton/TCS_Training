@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header>
             <div>
-                Header component
+                Food Order 
             </div>
         </header>
     )

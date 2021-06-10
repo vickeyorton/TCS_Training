@@ -1,18 +1,36 @@
 import React, { Component } from 'react';
-import ArticleNews from '../component/Home/ArticleNews';
-import GalleryNews from '../component/Home/GalleryNews';
-import LatestNews from '../component/Home/LatestNews';
+import {connect} from 'react-redux';
+import {articleNews} from '../actions';
+import {bindActionCreators} from 'redux';
+
+import HomeProduct from '../component/Home/HomeProduct';
 
 export class Home extends Component {
+
+    componentDidMount(){
+        this.props.articleNews();
+    }
+
     render() {
         return (
             <div>
-                <ArticleNews/>
-                <GalleryNews/>
-                <LatestNews/>
+                <HomeProduct articles={this.props.fullproduct.articles}/>
             </div>
         )
     }
 }
 
-export default Home
+// Mapping states
+const mapStateToProps = (state) => {
+    console.log("state : ", state) 
+    return {
+        fullproduct : state.articles
+    };
+}
+
+// Will Dispatch Action binds
+const mapDispatchToProps = (dispatch) =>{
+    return bindActionCreators({ articleNews },dispatch);
+}
+
+export default connect(mapStateToProps,mapDispatchToProps)(Home);
